@@ -4,7 +4,10 @@
 
 This repository contains Styles for pygments.
 
-`default-locke` is based on the `default` style.
+`default-locke` is based on the `default` style and changes:
+
+- Number to blue
+- Operator to black
 
 ## Requirements
 

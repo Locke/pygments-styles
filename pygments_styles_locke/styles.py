@@ -32,7 +32,8 @@ class DefaultLockeStyle(Style):
         Keyword.Pseudo:            "nobold",
         Keyword.Type:              "nobold #B00040",
 
-        Operator:                  "#666666",
+        #Operator:                  "#666666",
+        Operator:                  "#000000",
         Operator.Word:             "bold #AA22FF",
 
         Name.Builtin:              "#008000",
@@ -56,7 +57,8 @@ class DefaultLockeStyle(Style):
         #String.Symbol:             "#B8860B",
         String.Symbol:             "#19177C",
         String.Other:              "#008000",
-        Number:                    "#666666",
+        #Number:                    "#666666",
+        Number:                    "#1C01CE",
 
         Generic.Heading:           "bold #000080",
         Generic.Subheading:        "bold #800080",
