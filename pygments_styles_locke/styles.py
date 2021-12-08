@@ -1,11 +1,11 @@
 # -*- coding: utf-8 -*-
 """
-    pygments.styles.default
+    pygments_styles_locke
     ~~~~~~~~~~~~~~~~~~~~~~~
 
-    The default highlighting style.
+    Highlighting styles by Locke.
 
-    :copyright: Copyright 2006-2020 by the Pygments team, see AUTHORS.
+    :copyright: Copyright 2006-2021 by the Pygments team, see AUTHORS.
     :license: BSD, see LICENSE for details.
 """
 
@@ -14,9 +14,9 @@ from pygments.token import Keyword, Name, Comment, String, Error, \
      Number, Operator, Generic, Whitespace
 
 
-class DefaultStyle(Style):
+class DefaultLockeStyle(Style):
     """
-    The default style (inspired by Emacs 22).
+    The default-locke style. Copy of the default style, adapted by Locke.
     """
 
     background_color = "#f8f8f8"
