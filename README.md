@@ -8,6 +8,7 @@ This repository contains Styles for pygments.
 
 - Number to blue
 - Operator to black
+- Name.Function.Magic bold
 
 ## Requirements
 

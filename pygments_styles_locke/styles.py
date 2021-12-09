@@ -38,6 +38,7 @@ class DefaultLockeStyle(Style):
 
         Name.Builtin:              "#008000",
         Name.Function:             "#0000FF",
+        Name.Function.Magic:       "bold #0000FF",
         Name.Class:                "bold #0000FF",
         Name.Namespace:            "bold #0000FF",
         Name.Exception:            "bold #D2413A",
