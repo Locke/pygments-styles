@@ -2,9 +2,9 @@
 
 ## About
 
-This repository contains Styles for pygments.
+This repository contains Styles for [Pygments](https://github.com/pygments/pygments).
 
-`default-locke` is based on the `default` style and changes:
+The `default-locke` Style is based on the `default` Style and changes:
 
 - Number to blue
 - Operator to black
